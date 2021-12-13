@@ -1,6 +1,6 @@
 namespace DependencyInjection
 {
-    public class DenHoc:IDenHoc
+    public class DenHoc
     {
         private IDen _bongDen;
         
@@ -8,10 +8,10 @@ namespace DependencyInjection
         {
             _bongDen = bongDen;
         }
-        
-        public void PhatSang()
+
+        public void On()
         {
-            throw new System.NotImplementedException();
+            _bongDen.PhatSang();
         }
     }
 }

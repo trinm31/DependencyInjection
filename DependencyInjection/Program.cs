@@ -11,8 +11,11 @@ namespace DependencyInjection
             DenXanh denXanh = new DenXanh();
 
             DenHoc denHocMauVang = new DenHoc(denVang);
+            denHocMauVang.On();
             DenHoc denHocMauXanh = new DenHoc(denXanh);
+            denHocMauXanh.On();
             DenHoc denHocMauDo = new DenHoc(denDo);
+            denHocMauDo.On();
         }
     }
 }

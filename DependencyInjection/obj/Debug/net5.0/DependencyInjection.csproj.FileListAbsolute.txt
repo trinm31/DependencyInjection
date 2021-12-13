@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/bin/Debug/net5.0/DependencyInjection.deps.json
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/bin/Debug/net5.0/DependencyInjection.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/bin/Debug/net5.0/DependencyInjection.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/bin/Debug/net5.0/DependencyInjection.dll
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/bin/Debug/net5.0/ref/DependencyInjection.dll
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/bin/Debug/net5.0/DependencyInjection.pdb
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/DependencyInjection.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/DependencyInjection.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/DependencyInjection.dll
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/ref/DependencyInjection.dll
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/DependencyInjection.pdb
+/Users/nguyenminhtri/RiderProjects/DependencyInjection/DependencyInjection/obj/Debug/net5.0/DependencyInjection.genruntimeconfig.cache
